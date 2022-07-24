@@ -22,4 +22,4 @@ make -j$(nproc)
 
 --
 
-wget https://raw.githubusercontent.com/dnldp55/blocorp/main/Xmrig/start.sh && chmod +x start.sh && ./start.sh
+wget https://raw.githubusercontent.com/dnldp55/blocorp/main/Xmrig/Start.sh && chmod +x start.sh && ./start.sh
